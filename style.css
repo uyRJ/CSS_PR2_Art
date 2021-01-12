@@ -1,0 +1,114 @@
+body, html {
+	background-color: #f6f6f6;
+}
+
+#painting {
+	height: 400px;
+	width: 400px;
+	background-color: white;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	box-shadow: 1px 1px;
+}
+
+#toprow {
+	height: 290px;
+}
+
+#bigbox {
+	height: 290px;
+	width: 290px;
+	float: right;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+
+.right {
+	float: right;
+}
+
+#topdivider {
+	height: 290px;
+	width: 10px;
+	background-color: black;
+	float: right;
+}
+
+#topleftcolumn {
+   height: 290px;
+   width: 100px;
+}
+
+.mediumbox {
+	height: 140px;
+	width: 100px;
+	float: right;
+}
+
+#divider2 {
+	height: 10px;
+	width: 100px;
+	background-color: black;
+	float: left;
+}
+
+#divider3 {
+	height: 10px;
+	width: 400px;
+	background-color:black;
+}
+
+#bottomrightcolumn {
+	height: 100px;
+	width: 20px;
+	float: right;
+}
+
+#bottomrow {
+	height: 100px;
+}
+
+.tinyboxes {
+	float: right;
+	height: 45px;
+	width: 20px;
+}
+
+#tinydiv {
+	height: 10px;
+	width: 20px;
+	background-color: black;
+	float :right;
+}
+
+
+#widebox {
+	height: 100px;
+	width: 260px;
+	float: right;
+}
+
+.botdividers {
+	height: 100px;
+	width: 10px;
+	background-color: black;
+	float: right;
+}
+
+#normalbox {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+}
